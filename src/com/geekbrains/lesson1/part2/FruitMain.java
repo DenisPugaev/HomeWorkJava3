@@ -59,7 +59,7 @@ public class FruitMain {
         System.out.printf("Пересыпаем из коробки 2 в коробку 3.\nКоробка 2 весит: %s \nКоробка 3 весит: %s \n%n", boxMix2.getWeight(), boxMix3.getWeight());
 
 
-        System.out.printf("Сравниваем  коробку с яблоками и коробку с апельсинами: %s \n%n",boxApple.compare(boxOrange));
+        System.out.printf("Сравниваем  коробку с яблоками и коробку с апельсинами: %s \n%n", boxApple.compare(boxOrange));
     }
 
 
