@@ -1,9 +1,8 @@
 package com.geekbrains.lesson1.part2;
 
-public class Orange extends Fruit {
-
+public class Apple extends Fruit {
     @Override
     public float getWeight() {
-        return 1.5F;
+        return 1.0F;
     }
 }
